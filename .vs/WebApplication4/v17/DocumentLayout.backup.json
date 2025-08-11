@@ -1,0 +1,165 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Numan\\OneDrive\\Masa\u00FCst\u00FC\\WebApplication4 - Kopya\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{64EE3F64-1D4F-49F0-8D16-A72D38D5BAEC}|WebApplication4\\WebApplication4.csproj|c:\\users\\numan\\onedrive\\masa\u00FCst\u00FC\\webapplication4 - kopya\\webapplication4\\views\\home\\export.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{64EE3F64-1D4F-49F0-8D16-A72D38D5BAEC}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\views\\home\\export.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64EE3F64-1D4F-49F0-8D16-A72D38D5BAEC}|WebApplication4\\WebApplication4.csproj|c:\\users\\numan\\onedrive\\masa\u00FCst\u00FC\\webapplication4 - kopya\\webapplication4\\wwwroot\\css\\_layout.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{64EE3F64-1D4F-49F0-8D16-A72D38D5BAEC}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\wwwroot\\css\\_layout.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64EE3F64-1D4F-49F0-8D16-A72D38D5BAEC}|WebApplication4\\WebApplication4.csproj|c:\\users\\numan\\onedrive\\masa\u00FCst\u00FC\\webapplication4 - kopya\\webapplication4\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{64EE3F64-1D4F-49F0-8D16-A72D38D5BAEC}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64EE3F64-1D4F-49F0-8D16-A72D38D5BAEC}|WebApplication4\\WebApplication4.csproj|c:\\users\\numan\\onedrive\\masa\u00FCst\u00FC\\webapplication4 - kopya\\webapplication4\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{64EE3F64-1D4F-49F0-8D16-A72D38D5BAEC}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64EE3F64-1D4F-49F0-8D16-A72D38D5BAEC}|WebApplication4\\WebApplication4.csproj|c:\\users\\numan\\onedrive\\masa\u00FCst\u00FC\\webapplication4 - kopya\\webapplication4\\views\\home\\employee.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{64EE3F64-1D4F-49F0-8D16-A72D38D5BAEC}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\views\\home\\employee.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64EE3F64-1D4F-49F0-8D16-A72D38D5BAEC}|WebApplication4\\WebApplication4.csproj|c:\\users\\numan\\onedrive\\masa\u00FCst\u00FC\\webapplication4 - kopya\\webapplication4\\views\\home\\equipment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{64EE3F64-1D4F-49F0-8D16-A72D38D5BAEC}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\views\\home\\equipment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64EE3F64-1D4F-49F0-8D16-A72D38D5BAEC}|WebApplication4\\WebApplication4.csproj|c:\\users\\numan\\onedrive\\masa\u00FCst\u00FC\\webapplication4 - kopya\\webapplication4\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64EE3F64-1D4F-49F0-8D16-A72D38D5BAEC}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64EE3F64-1D4F-49F0-8D16-A72D38D5BAEC}|WebApplication4\\WebApplication4.csproj|c:\\users\\numan\\onedrive\\masa\u00FCst\u00FC\\webapplication4 - kopya\\webapplication4\\views\\home\\assignment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{64EE3F64-1D4F-49F0-8D16-A72D38D5BAEC}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\views\\home\\assignment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 190,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.css",
+              "DocumentMoniker": "C:\\Users\\Numan\\OneDrive\\Masa\u00FCst\u00FC\\WebApplication4 - Kopya\\WebApplication4\\wwwroot\\css\\_Layout.css",
+              "RelativeDocumentMoniker": "WebApplication4\\wwwroot\\css\\_Layout.css",
+              "ToolTip": "C:\\Users\\Numan\\OneDrive\\Masa\u00FCst\u00FC\\WebApplication4 - Kopya\\WebApplication4\\wwwroot\\css\\_Layout.css",
+              "RelativeToolTip": "WebApplication4\\wwwroot\\css\\_Layout.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-08-08T11:25:27.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Assignment.cshtml",
+              "DocumentMoniker": "C:\\Users\\Numan\\OneDrive\\Masa\u00FCst\u00FC\\WebApplication4 - Kopya\\WebApplication4\\Views\\Home\\Assignment.cshtml",
+              "RelativeDocumentMoniker": "WebApplication4\\Views\\Home\\Assignment.cshtml",
+              "ToolTip": "C:\\Users\\Numan\\OneDrive\\Masa\u00FCst\u00FC\\WebApplication4 - Kopya\\WebApplication4\\Views\\Home\\Assignment.cshtml",
+              "RelativeToolTip": "WebApplication4\\Views\\Home\\Assignment.cshtml",
+              "ViewState": "AgIAAMYAAAAAAAAAAAAQwJEBAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-08T08:13:56.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Export.cshtml",
+              "DocumentMoniker": "C:\\Users\\Numan\\OneDrive\\Masa\u00FCst\u00FC\\WebApplication4 - Kopya\\WebApplication4\\Views\\Home\\Export.cshtml",
+              "RelativeDocumentMoniker": "WebApplication4\\Views\\Home\\Export.cshtml",
+              "ToolTip": "C:\\Users\\Numan\\OneDrive\\Masa\u00FCst\u00FC\\WebApplication4 - Kopya\\WebApplication4\\Views\\Home\\Export.cshtml",
+              "RelativeToolTip": "WebApplication4\\Views\\Home\\Export.cshtml",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwCQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-07T12:34:52.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Equipment.cshtml",
+              "DocumentMoniker": "C:\\Users\\Numan\\OneDrive\\Masa\u00FCst\u00FC\\WebApplication4 - Kopya\\WebApplication4\\Views\\Home\\Equipment.cshtml",
+              "RelativeDocumentMoniker": "WebApplication4\\Views\\Home\\Equipment.cshtml",
+              "ToolTip": "C:\\Users\\Numan\\OneDrive\\Masa\u00FCst\u00FC\\WebApplication4 - Kopya\\WebApplication4\\Views\\Home\\Equipment.cshtml",
+              "RelativeToolTip": "WebApplication4\\Views\\Home\\Equipment.cshtml",
+              "ViewState": "AgIAADABAAAAAAAAAAAQwGUBAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-07T08:11:35.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Employee.cshtml",
+              "DocumentMoniker": "C:\\Users\\Numan\\OneDrive\\Masa\u00FCst\u00FC\\WebApplication4 - Kopya\\WebApplication4\\Views\\Home\\Employee.cshtml",
+              "RelativeDocumentMoniker": "WebApplication4\\Views\\Home\\Employee.cshtml",
+              "ToolTip": "C:\\Users\\Numan\\OneDrive\\Masa\u00FCst\u00FC\\WebApplication4 - Kopya\\WebApplication4\\Views\\Home\\Employee.cshtml",
+              "RelativeToolTip": "WebApplication4\\Views\\Home\\Employee.cshtml",
+              "ViewState": "AgIAAKcAAAAAAAAAAAAcwLIAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-06T13:47:07.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Numan\\OneDrive\\Masa\u00FCst\u00FC\\WebApplication4 - Kopya\\WebApplication4\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication4\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Numan\\OneDrive\\Masa\u00FCst\u00FC\\WebApplication4 - Kopya\\WebApplication4\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WebApplication4\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-06T13:45:01.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Numan\\OneDrive\\Masa\u00FCst\u00FC\\WebApplication4 - Kopya\\WebApplication4\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebApplication4\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Numan\\OneDrive\\Masa\u00FCst\u00FC\\WebApplication4 - Kopya\\WebApplication4\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebApplication4\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAawJAAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T13:44:10.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Numan\\OneDrive\\Masa\u00FCst\u00FC\\WebApplication4 - Kopya\\WebApplication4\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebApplication4\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Numan\\OneDrive\\Masa\u00FCst\u00FC\\WebApplication4 - Kopya\\WebApplication4\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebApplication4\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-06T13:43:58.112Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

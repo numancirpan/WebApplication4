@@ -1,0 +1,162 @@
+﻿@model WebApplication4.Controllers.HomeController.ExportViewModel
+@{
+    ViewData["Title"] = "Export Equipment Assignments";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="container mt-4">
+    @Html.AntiForgeryToken()
+    <div class="d-flex justify-content-between align-items-center mb-4">
+        <h2>Export Equipment Assignments</h2>
+        <button type="button" class="btn btn-primary" id="exportPdfBtn" disabled>
+            <i class="fas fa-file-pdf"></i> Export to PDF
+        </button>
+    </div>
+
+    <div class="row mb-4">
+        <div class="col-md-6">
+            <label for="employeeSelect" class="form-label">Select Employee</label>
+            <select class="form-select" id="employeeSelect">
+                <option value="">-- Select Employee --</option>
+                @foreach (var employee in Model.Employees)
+                {
+                    <option value="@employee.Id">@employee.FullName (@employee.Department)</option>
+                }
+            </select>
+        </div>
+    </div>
+
+    <div class="table-responsive">
+        <table class="table table-striped" id="equipmentTable">
+            <thead class="table-dark">
+                <tr>
+                    <th>Equipment ID</th>
+                    <th>Equipment Name</th>
+                    <th>Asset Number</th>
+                    <th>Service Tag</th>
+                    <th>Status</th>
+                    <th>Assignment Date</th>
+                </tr>
+            </thead>
+            <tbody>
+                <!-- Will be populated by JavaScript -->
+            </tbody>
+        </table>
+    </div>
+</div>
+<style>
+    body{
+        background: linear-gradient(135deg, #1e293b, #3b82f6);
+    }
+
+</style>
+@section Scripts {
+    <script>
+        let currentEmployeeData = [];
+
+        document.getElementById('employeeSelect').addEventListener('change', function() {
+            const employeeId = this.value;
+            const exportBtn = document.getElementById('exportPdfBtn');
+
+            if (!employeeId) {
+                document.querySelector('#equipmentTable tbody').innerHTML = '';
+                exportBtn.disabled = true;
+                currentEmployeeData = [];
+                return;
+            }
+
+            fetch(`/Home/GetEmployeeEquipment?employeeId=${employeeId}`)
+                .then(response => response.json())
+                .then(data => {
+                    const tbody = document.querySelector('#equipmentTable tbody');
+                    tbody.innerHTML = '';
+                    currentEmployeeData = data;
+
+                    if (data.length === 0) {
+                        tbody.innerHTML = '<tr><td colspan="6" class="text-center">No equipment assigned to this employee</td></tr>';
+                        exportBtn.disabled = true;
+                        return;
+                    }
+
+                    data.forEach(item => {
+                        const row = document.createElement('tr');
+                        row.innerHTML = `
+                            <td>${item.equipmentId}</td>
+                            <td>${item.equipmentName}</td>
+                            <td>${item.assetNumber || '-'}</td>
+                            <td>${item.serviceTag || '-'}</td>
+                            <td>${item.status}</td>
+                            <td>${new Date(item.assignmentDate).toLocaleDateString()}</td>
+                        `;
+                        tbody.appendChild(row);
+                    });
+
+                    exportBtn.disabled = false;
+                })
+                .catch(error => {
+                    console.error('Error:', error);
+                    alert('Error loading equipment data');
+                    exportBtn.disabled = true;
+                });
+        });
+
+                            document.getElementById('exportPdfBtn').addEventListener('click', function() {
+            const token = document.querySelector('input[name="__RequestVerificationToken"]')?.value;
+            if (!token) {
+                alert("Security token missing. Please refresh the page and try again.");
+                return;
+            }
+
+            if (currentEmployeeData.length === 0) {
+                alert('No equipment data to export');
+                return;
+            }
+
+            const employeeSelect = document.getElementById('employeeSelect');
+            const employeeId = employeeSelect.value;
+            const employeeName = employeeSelect.selectedOptions[0].text.split('(')[0].trim();
+
+            // Show loading indicator
+            this.disabled = true;
+            this.innerHTML = '<i class="fas fa-spinner fa-spin"></i> Generating PDF...';
+
+            fetch('/Home/GeneratePdf', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json',
+                    'RequestVerificationToken': token
+                },
+                body: JSON.stringify({
+                    EmployeeId: parseInt(employeeId),
+                    EmployeeName: employeeName,
+                    Equipment: currentEmployeeData
+                })
+            })
+            .then(response => {
+                if (!response.ok) {
+                    return response.text().then(text => { throw new Error(text) });
+                }
+                return response.blob();
+            })
+            .then(blob => {
+                const url = window.URL.createObjectURL(blob);
+                const a = document.createElement('a');
+                a.href = url;
+                a.download = `Equipment_Assignment_${employeeName.replace(/ /g, '_')}.pdf`;
+                document.body.appendChild(a);
+                a.click();
+                window.URL.revokeObjectURL(url);
+                a.remove();
+            })
+            .catch(error => {
+                console.error('Error:', error);
+                alert('PDF generation failed: ' + error.message);
+            })
+            .finally(() => {
+                // Reset button state
+                this.disabled = false;
+                this.innerHTML = '<i class="fas fa-file-pdf"></i> Export to PDF';
+            });
+        });
+    </script>
+}

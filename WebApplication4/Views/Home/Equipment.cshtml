@@ -1,0 +1,389 @@
+﻿@{
+    ViewData["Title"] = "Equipment";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<!-- Bootstrap Modal (Ekleme/Düzenleme İçin) -->
+<div class="modal fade" id="equipmentModal" tabindex="-1" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="modalTitle">Add Equipment</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <form id="equipmentForm" asp-action="SaveEquipment" method="post">
+                @Html.AntiForgeryToken()
+                <div class="modal-body">
+                    <input type="hidden" id="EquipmentId" name="Id" value="0" />
+
+                    <div class="mb-3">
+                        <label for="EquipmentName" class="form-label">Equipment Name*</label>
+                        <input type="text" class="form-control" id="EquipmentName" name="EquipmentName" required>
+                    </div>
+
+                    <div class="mb-3">
+                        <label for="EquipmentType" class="form-label">Equipment Type</label>
+                        <select class="form-select" id="EquipmentType" name="EquipmentType">
+                            <option value="Laptop">Laptop</option>
+                            <option value="Phone">Phone</option>
+                            <option value="Tablet">Tablet</option>
+                            <option value="Monitor">Monitor</option>
+                            <option value="Printer">Printer</option>
+                            <option value="Other">Other</option>
+                        </select>
+                    </div>
+
+                    <div class="mb-3">
+                        <label for="AssetNumber" class="form-label">Asset Number</label>
+                        <input type="text" class="form-control" id="AssetNumber" name="AssetNumber">
+                    </div>
+
+                    <div class="mb-3">
+                        <label for="ServiceTag" class="form-label">Service Tag</label>
+                        <input type="text" class="form-control" id="ServiceTag" name="ServiceTag">
+                    </div>
+
+                    <div class="mb-3">
+                        <label for="SerialOrIMEI" class="form-label">Serial/IMEI</label>
+                        <input type="text" class="form-control" id="SerialOrIMEI" name="SerialOrIMEI">
+                    </div>
+
+                    <div class="mb-3">
+                        <label for="ModelYear" class="form-label">Model Year</label>
+                        <input type="number" class="form-control" id="ModelYear" name="ModelYear" min="2000" max="@DateTime.Now.Year">
+                    </div>
+
+                    <div class="mb-3">
+                        <label for="Status" class="form-label">Status</label>
+                        <select class="form-select" id="Status" name="Status">
+                            <option value="Available">Available</option>
+                            <option value="Assigned">Assigned</option>
+                            <option value="Maintenance">Maintenance</option>
+                            <option value="Retired">Retired</option>
+                        </select>
+                    </div>
+
+                    <div class="mb-3">
+                        <label for="Notes" class="form-label">Notes</label>
+                        <textarea class="form-control" id="Notes" name="Notes" rows="3"></textarea>
+                    </div>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                    <button type="submit" class="btn btn-primary">Save Changes</button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+
+<!-- Ana İçerik -->
+<div class="container mt-4">
+    <div class="d-flex justify-content-between align-items-center mb-4">
+        <h2>Equipment Management</h2>
+        <button type="button" class="btn btn-success" onclick="openModal(0)">
+            <i class="fas fa-plus"></i> ADD EQUIPMENT
+        </button>
+    </div>
+
+    <!-- Filtreleme Inputları -->
+    <div class="card mb-4">
+        <div class="card-body">
+            <div class="row g-3">
+                <div class="col-md-2">
+                    <input type="text" class="form-control filter-input" placeholder="Filter ID" data-column="0">
+                </div>
+                <div class="col-md-2">
+                    <input type="text" class="form-control filter-input" placeholder="Filter Name" data-column="1">
+                </div>
+                <div class="col-md-2">
+                    <select class="form-select filter-select" data-column="2">
+                        <option value="">All Types</option>
+                        <option value="Laptop">Laptop</option>
+                        <option value="Phone">Phone</option>
+                        <option value="Tablet">Tablet</option>
+                        <option value="Monitor">Monitor</option>
+                        <option value="Printer">Printer</option>
+                        <option value="Other">Other</option>
+                    </select>
+                </div>
+                <div class="col-md-2">
+                    <input type="text" class="form-control filter-input" placeholder="Filter Asset No" data-column="3">
+                </div>
+                <div class="col-md-2">
+                    <input type="text" class="form-control filter-input" placeholder="Filter Serial/IMEI" data-column="5">
+                </div>
+                <div class="col-md-2">
+                    <select class="form-select filter-select" data-column="7">
+                        <option value="">All Statuses</option>
+                        <option value="Available">Available</option>
+                        <option value="Assigned">Assigned</option>
+                        <option value="Maintenance">Maintenance</option>
+                        <option value="Retired">Retired</option>
+                    </select>
+                </div>
+                <div class="col-md-2">
+                    <button class="btn btn-outline-secondary w-100" id="resetFilters">Reset Filters</button>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="table-responsive">
+        <table class="table table-striped table-hover" id="equipmentTable">
+            <thead class="table-dark">
+                <tr>
+                    <th>ID</th>
+                    <th>Equipment Name</th>
+                    <th>Type</th>
+                    <th>Asset Number</th>
+                    <th>Service Tag</th>
+                    <th>Serial/IMEI</th>
+                    <th>Model Year</th>
+                    <th>Status</th>
+                    <th>Notes</th>
+                    <th>Actions</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var equipment in Model)
+                {
+                    <tr>
+                        <td>@equipment.Id</td>
+                        <td>@equipment.EquipmentName</td>
+                        <td>@equipment.EquipmentType</td>
+                        <td>@equipment.AssetNumber</td>
+                        <td>@equipment.ServiceTag</td>
+                        <td>@equipment.SerialOrIMEI</td>
+                        <td>@equipment.ModelYear</td>
+                        <td>
+                            <span class="badge @GetStatusBadgeClass(equipment.Status)">
+                                @equipment.Status
+                            </span>
+                        </td>
+                        <td>@equipment.Notes</td>
+                        <td>
+                            <button class="btn btn-sm btn-primary me-2" onclick="openModal(@equipment.Id)">
+                                <i class="bi bi-pencil-fill"></i><!--Edit-->
+                            </button>
+                            <form asp-action="DeleteEquipment" method="post" class="d-inline">
+                                <input type="hidden" name="id" value="@equipment.Id" />
+                                <button type="submit" class="btn btn-sm btn-danger" onclick="return confirm('Are you sure?')">
+                                    <i class="bi bi-x-lg"></i><!--Delete-->
+                                </button>
+                            </form>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>
+<!-- Toast bildirimi için kısmı güncelleyin (sayfanın sonunda) -->
+<div class="position-fixed bottom-0 end-0 p-3" style="z-index: 11">
+    <div id="toastNotification" class="toast align-items-center text-white bg-success" role="alert" aria-live="assertive" aria-atomic="true">
+        <div class="d-flex">
+            <div class="toast-body" id="toastMessage">
+                <!-- Mesaj buraya gelecek -->
+            </div>
+            <button type="button" class="btn-close btn-close-white me-2 m-auto" data-bs-dismiss="toast" aria-label="Close"></button>
+        </div>
+    </div>
+</div>
+@functions {
+    public string GetStatusBadgeClass(string status)
+    {
+        switch (status)
+        {
+            case "Available": return "bg-success";
+            case "Assigned": return "bg-primary";
+            case "Maintenance": return "bg-warning";
+            case "Retired": return "bg-secondary";
+            default: return "bg-info";
+        }
+    }
+}
+
+@section Scripts {
+    <script>
+        // Toast mesajını gösteren fonksiyon
+        function showToast(message, isSuccess) {
+            const toast = document.getElementById('toastNotification');
+            const toastMessage = document.getElementById('toastMessage');
+
+            toast.classList.remove('bg-success', 'bg-danger');
+            toast.classList.add(isSuccess ? 'bg-success' : 'bg-danger');
+            toastMessage.textContent = message;
+
+            const bootstrapToast = new bootstrap.Toast(toast);
+            bootstrapToast.show();
+        }
+
+        // Sayfa yüklendiğinde URL'den mesaj parametrelerini kontrol et
+        document.addEventListener('DOMContentLoaded', function() {
+            // URL'den parametreleri oku
+            const urlParams = new URLSearchParams(window.location.search);
+
+            if (urlParams.has('saved')) {
+                showToast('Equipment saved successfully!', true);
+                // Parametreyi temizle
+                history.replaceState(null, '', window.location.pathname);
+            }
+            else if (urlParams.has('deleted')) {
+                showToast('Equipment deleted successfully!', true);
+                // Parametreyi temizle
+                history.replaceState(null, '', window.location.pathname);
+            }
+
+            // Filtreleme kodları
+            const table = document.getElementById('equipmentTable');
+            const filterInputs = document.querySelectorAll('.filter-input, .filter-select');
+            const resetButton = document.getElementById('resetFilters');
+
+            function filterTable() {
+                const rows = document.querySelectorAll("tbody tr");
+
+                rows.forEach(row => {
+                    let display = true;
+                    const cells = row.querySelectorAll("td");
+
+                    filterInputs.forEach(input => {
+                        const columnIndex = parseInt(input.dataset.column);
+                        const filterValue = input.value.toLowerCase().trim();
+                        const cellValue = cells[columnIndex].textContent.toLowerCase().trim();
+
+                        if (input.tagName === "SELECT") {
+                            if (filterValue !== "" && cellValue !== filterValue) {
+                                display = false;
+                            }
+                        }
+                        else {
+                            if (filterValue !== "" && !cellValue.includes(filterValue)) {
+                                display = false;
+                            }
+                        }
+                    });
+
+                    row.style.display = display ? "" : "none";
+                });
+            }
+
+            filterInputs.forEach(input => {
+                input.addEventListener('change', filterTable);
+                if (input.tagName === 'INPUT') {
+                    input.addEventListener('keyup', filterTable);
+                }
+            });
+
+            resetButton.addEventListener('click', function() {
+                filterInputs.forEach(input => {
+                    input.value = '';
+                });
+                filterTable();
+            });
+        });
+
+        // Modal açma ve veri yükleme fonksiyonu
+        function openModal(id) {
+            const modal = new bootstrap.Modal(document.getElementById('equipmentModal'));
+            const form = document.getElementById('equipmentForm');
+
+            if (id > 0) {
+                fetch(`/Home/GetEquipment?id=${id}`)
+                    .then(response => response.json())
+                    .then(data => {
+                        document.getElementById('EquipmentId').value = data.id;
+                        document.getElementById('EquipmentName').value = data.equipmentName || '';
+                        document.getElementById('EquipmentType').value = data.equipmentType || 'Laptop';
+                        document.getElementById('AssetNumber').value = data.assetNumber || '';
+                        document.getElementById('ServiceTag').value = data.serviceTag || '';
+                        document.getElementById('SerialOrIMEI').value = data.serialOrIMEI || '';
+                        document.getElementById('ModelYear').value = data.modelYear || '';
+                        document.getElementById('Status').value = data.status || 'Available';
+                        document.getElementById('Notes').value = data.notes || '';
+
+                        document.getElementById('modalTitle').textContent = 'Edit Equipment';
+                        modal.show();
+                    })
+                    .catch(error => {
+                        showToast('Error loading equipment data', false);
+                    });
+            } else {
+                form.reset();
+                document.getElementById('EquipmentId').value = 0;
+                document.getElementById('modalTitle').textContent = 'Add Equipment';
+                modal.show();
+            }
+        }
+
+        // Form submit işlemi
+               document.getElementById('equipmentForm').addEventListener('submit', function(e) {
+            e.preventDefault();
+
+            const modelYearValue = document.getElementById('ModelYear').value;
+
+            const equipmentData = {
+                Id: parseInt(document.getElementById('EquipmentId').value),
+                EquipmentName: document.getElementById('EquipmentName').value,
+                EquipmentType: document.getElementById('EquipmentType').value,
+                AssetNumber: document.getElementById('AssetNumber').value,
+                ServiceTag: document.getElementById('ServiceTag').value,
+                SerialOrIMEI: document.getElementById('SerialOrIMEI').value,
+                ModelYear: modelYearValue ? parseInt(modelYearValue) : null, // Düzeltme burada
+                Status: document.getElementById('Status').value,
+                Notes: document.getElementById('Notes').value
+            };
+
+            if (!equipmentData.EquipmentName) {
+                showToast('Equipment Name is required', false);
+                return;
+            }
+
+            fetch(this.action, {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json',
+                    'RequestVerificationToken': document.querySelector('input[name="__RequestVerificationToken"]').value
+                },
+                body: JSON.stringify(equipmentData)
+            }).then(response => {
+                if (response.ok) {
+                    window.location.href = window.location.pathname + '?saved=true';
+                } else {
+                    response.text().then(text => showToast('Error: ' + text, false));
+                }
+            }).catch(error => {
+                console.error('Error:', error);
+                showToast('Error saving equipment', false);
+            });
+        });
+
+        // Silme işlemleri için tüm formları seç ve event listener ekle
+        document.querySelectorAll('form[action*="DeleteEquipment"]').forEach(form => {
+            form.addEventListener('submit', function(e) {
+                e.preventDefault();
+
+                if (confirm('Are you sure you want to delete this equipment?')) {
+                    const formData = new FormData(this);
+                    const id = formData.get('id');
+
+                    fetch(this.action, {
+                        method: 'POST',
+                        headers: {
+                            'RequestVerificationToken': document.querySelector('input[name="__RequestVerificationToken"]').value
+                        },
+                        body: formData
+                    }).then(response => {
+                        if (response.ok) {
+                            window.location.href = window.location.pathname + '?deleted=true';
+                        } else {
+                            response.text().then(text => showToast('Error: ' + text, false));
+                        }
+                    }).catch(error => {
+                        console.error('Error:', error);
+                        showToast('Error deleting equipment', false);
+                    });
+                }
+            });
+        });
+    </script>
+}

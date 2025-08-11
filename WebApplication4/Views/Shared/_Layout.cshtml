@@ -1,0 +1,65 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.css">
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - IT Asset Management </title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="~/css/_Layout.css" asp-append-version="true" />
+    <link rel="icon" href="~/Tasarim/min.png" type="image/x-icon" />
+</head>
+<body class="app-background">
+    <header class="navbarf">
+        <div class="container-fluid">
+            <a class="navbar-brand d-flex align-items-center" href="/">
+                <img src="/Tasarim/header.png" alt="Şirket Logosu" height="50" class="me-2">
+                <span style=" position: absolute;  left: 50%; top: 50%; transform: translate(-50%, -50%); font-weight: bold; color: white" class="itasset"> IT Asset Management </span>
+            </a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+        </div>
+    </header>
+    <div class="container text-center mt-5">
+        <h2>Menu Bar</h2>
+        <div class="d-flex justify-content-center gap-1 mt-4">
+            <!-- Employee (Çalışıyor) -->
+            <a href="@Url.Action("Employee", "Home")" class="menu-item">
+                <img src="~/Tasarim/images2.png" alt="Employee" class="img-fluid hover-animation">
+                <span class="menu-label">Employees</span>
+            </a>
+
+            <!-- Equipment -->
+            <a href="@Url.Action("Equipment", "Home")" class="menu-item">
+                <img src="~/Tasarim/images1.png" alt="Equipment" class="img-fluid hover-animation">
+                <span class="menu-label">Equipment</span>
+            </a>
+
+            <!-- Assignment -->
+            <a href="@Url.Action("Assignment", "Home")" class="menu-item">
+                <img src="~/Tasarim/a.png" alt="Assignments" class="img-fluid hover-animation">
+                <span class="menu-label">Assignments</span>
+            </a>
+
+            <!-- Export -->
+            <a href="@Url.Action("Export", "Home")" class="menu-item">
+                <img src="~/Tasarim/printer.jpg" alt="Export" class="img-fluid hover-animation">
+                <span class="menu-label">Export</span>
+            </a>
+        </div>
+    </div>
+
+    <style>
+      
+    </style>
+
+    <div class="container">
+    @RenderBody()
+    </div>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+
+
+</html>

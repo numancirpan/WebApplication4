@@ -1,0 +1,471 @@
+﻿@model WebApplication4.Controllers.HomeController.AssignmentViewModel
+@{
+    ViewData["Title"] = "Equipment Assignments";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<!-- Bootstrap Modal (Ekleme/Düzenleme İçin) -->
+<div class="modal fade" id="assignmentModal" tabindex="-1" aria-hidden="true">
+    <div class="modal-dialog modal-lg">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="modalTitle">Add Assignment</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <form id="assignmentForm">
+                @Html.AntiForgeryToken()
+                <input type="hidden" id="AssignmentId" value="0" />
+                <div class="modal-body">
+                    <div class="row mb-3">
+                        <div class="col-md-6">
+                            <label for="EmployeeId" class="form-label">Employee</label>
+                            <select class="form-select" id="EmployeeId" required>
+                                <option value="">Select Employee</option>
+                                @foreach (var employee in Model.Employees)
+                                {
+                                    <option value="@employee.Id">@employee.Id - @employee.FullName</option>
+                                }
+                            </select>
+                        </div>
+                        <div class="col-md-6">
+                            <label for="EquipmentId" class="form-label">Equipment</label>
+                            <select class="form-select" id="EquipmentId" required>
+                                <option value="">Select Equipment</option>
+                                @foreach (var equipment in Model.Equipment)
+                                {
+                                    <option value="@equipment.Id">@equipment.Id - @equipment.EquipmentName</option>
+                                }
+                            </select>
+                        </div>
+                    </div>
+
+                    <div class="row mb-3">
+                        <div class="col-12">
+                            <label class="form-label">Accessories</label>
+                            <div class="row">
+                                <div class="col-md-3">
+                                    <div class="form-check">
+                                        <input class="form-check-input" type="checkbox" id="HasCharger">
+                                        <label class="form-check-label" for="HasCharger">Charger</label>
+                                    </div>
+                                </div>
+                                <div class="col-md-3">
+                                    <div class="form-check">
+                                        <input class="form-check-input" type="checkbox" id="HasHeadset">
+                                        <label class="form-check-label" for="HasHeadset">Headset</label>
+                                    </div>
+                                </div>
+                                <div class="col-md-3">
+                                    <div class="form-check">
+                                        <input class="form-check-input" type="checkbox" id="HasDeckStation">
+                                        <label class="form-check-label" for="HasDeckStation">Dock Station</label>
+                                    </div>
+                                </div>
+                                <div class="col-md-3">
+                                    <div class="form-check">
+                                        <input class="form-check-input" type="checkbox" id="HasWirelessHeadset">
+                                        <label class="form-check-label" for="HasWirelessHeadset">Headset(W)</label>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="row mt-2">
+                                <div class="col-md-3">
+                                    <div class="form-check">
+                                        <input class="form-check-input" type="checkbox" id="HasKeyboard">
+                                        <label class="form-check-label" for="HasKeyboard">Keyboard</label>
+                                    </div>
+                                </div>
+                                <div class="col-md-3">
+                                    <div class="form-check">
+                                        <input class="form-check-input" type="checkbox" id="HasLaptopBag">
+                                        <label class="form-check-label" for="HasLaptopBag">Laptop Bag</label>
+                                    </div>
+                                </div>
+                                <div class="col-md-3">
+                                    <div class="form-check">
+                                        <input class="form-check-input" type="checkbox" id="HasMouse">
+                                        <label class="form-check-label" for="HasMouse">Mouse</label>
+                                    </div>
+                                </div>
+                                <div class="col-md-3">
+                                    <div class="form-check">
+                                        <input class="form-check-input" type="checkbox" id="HasJabraSpeak">
+                                        <label class="form-check-label" for="HasJabraSpeak">Jabra Speak</label>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="row mb-3">
+                        <div class="col-md-6">
+                            <label for="OtherAccessories" class="form-label">Other Accessories</label>
+                            <input type="text" class="form-control" id="OtherAccessories">
+                        </div>
+                        <div class="col-md-6">
+                            <label for="AssignmentDate" class="form-label">Assignment Date</label>
+                            <input type="date" class="form-control" id="AssignmentDate" value="@DateTime.Now.ToString("yyyy-MM-dd")">
+                        </div>
+                    </div>
+
+                    <div class="mb-3">
+                        <label for="Notes" class="form-label">Notes</label>
+                        <textarea class="form-control" id="Notes" rows="3"></textarea>
+                    </div>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                    <button type="submit" class="btn btn-primary">Save Changes</button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+
+
+<!-- Ana İçerik -->
+<div class="container mt-4">
+    <div class="d-flex justify-content-between align-items-center mb-4">
+        <h2>Equipment Assignments</h2>
+        <button type="button" class="btn btn-success" onclick="openAssignmentModal(0)">
+            <i class="fas fa-plus"></i> ADD ASSIGNMENT
+        </button>
+    </div>
+    
+    <!-- Yeni Filtreleme Kartı -->
+    <div class="card mb-4">
+        <div class="card-body">
+            <div class="row g-3">
+                <div class="col-md-2">
+                    <input type="text" class="form-control filter-input" placeholder="Filter ID" data-column="0">
+                </div>
+                <div class="col-md-2">
+                    <input type="text" class="form-control filter-input" placeholder="Filter Employee" data-column="1">
+                </div>
+                <div class="col-md-2">
+                    <input type="text" class="form-control filter-input" placeholder="Filter Equipment" data-column="2">
+                </div>
+                <div class="col-md-2">
+                    <input type="date" class="form-control filter-input" placeholder="Filter Date" data-column="3">
+                </div>
+                <div class="col-md-2">
+                    <select class="form-select filter-select" data-column="5">
+                        <option value="">All Statuses</option>
+                        <option value="Active">Active</option>
+                        <option value="Inactive">Inactive</option>
+                    </select>
+                </div>
+                <div class="col-md-2">
+                    <button class="btn btn-outline-secondary w-100" id="resetFilters">Reset Filters</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="table-responsive">
+        <table class="table table-striped table-hover" id="assignmentTable">
+            <thead class="table-dark">
+                <tr>
+                    <th>ID</th>
+                    <th>Employee</th>
+                    <th>Equipment</th>
+                    <th>Assignment Date</th>
+                    <th>Accessories</th>
+                    <th>Status</th>
+                    <th>Actions</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var assignment in Model.Assignments)
+                {
+                    <tr>
+                        <td>@assignment.Id</td>
+                        <td>@assignment.Employee?.FullName</td>
+                        <td>@assignment.Equipment?.EquipmentName</td>
+                        <td>@assignment.AssignmentDate.ToString("yyyy-MM-dd")</td>
+                        <td>@GetAccessoriesList(assignment)</td>
+                        <td>
+                            <span class="badge @(assignment.Status == "Active" ? "bg-success" : "bg-warning")">
+                                @assignment.Status
+                            </span>
+                        </td>
+                        <td>
+                            <button class="btn btn-sm btn-primary me-2" onclick="openAssignmentModal(@assignment.Id)">
+                                <i class="bi bi-pencil-fill"></i> <!--Edit-->
+                            </button>
+                            <button class="btn btn-sm btn-danger" onclick="deleteAssignment(@assignment.Id)">
+                                <i class="bi bi-x-lg"></i><!--Delete-->
+                            </button>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>
+<!-- Toast Container -->
+<div class="position-fixed bottom-0 end-0 p-3" style="z-index: 11">
+    <!-- Add Toast -->
+    <div id="addToast" class="toast" role="alert" aria-live="assertive" aria-atomic="true">
+        <div class="toast-header bg-primary text-white">
+            <strong class="me-auto">Success</strong>
+            <button type="button" class="btn-close btn-close-white" data-bs-dismiss="toast" aria-label="Close"></button>
+        </div>
+        <div class="toast-body">
+            New assignment has been added successfully!
+        </div>
+    </div>
+
+    <!-- Edit Toast -->
+    <div id="editToast" class="toast" role="alert" aria-live="assertive" aria-atomic="true">
+        <div class="toast-header bg-success text-white">
+            <strong class="me-auto">Success</strong>
+            <button type="button" class="btn-close btn-close-white" data-bs-dismiss="toast" aria-label="Close"></button>
+        </div>
+        <div class="toast-body">
+            Assignment has been updated successfully!
+        </div>
+    </div>
+
+    <!-- Delete Toast -->
+    <div id="deleteToast" class="toast" role="alert" aria-live="assertive" aria-atomic="true">
+        <div class="toast-header bg-danger text-white">
+            <strong class="me-auto">Success</strong>
+            <button type="button" class="btn-close btn-close-white" data-bs-dismiss="toast" aria-label="Close"></button>
+        </div>
+        <div class="toast-body">
+            Assignment has been deleted successfully!
+        </div>
+    </div>
+</div>
+@functions {
+    public string GetAccessoriesList(Assignment assignment)
+    {
+        var accessories = new List<string>();
+
+        if (assignment.HasCharger) accessories.Add("Charger");
+        if (assignment.HasHeadset) accessories.Add("Headset");
+        if (assignment.HasDeckStation) accessories.Add("Dock Station");
+        if (assignment.HasWirelessHeadset) accessories.Add("Headset(W)");
+        if (assignment.HasKeyboard) accessories.Add("Keyboard");
+        if (assignment.HasLaptopBag) accessories.Add("Laptop Bag");
+        if (assignment.HasMouse) accessories.Add("Mouse");
+        if (assignment.HasJabraSpeak) accessories.Add("Jabra Speak");
+        if (!string.IsNullOrEmpty(assignment.OtherAccessories)) accessories.Add(assignment.OtherAccessories);
+
+        return string.Join(", ", accessories);
+    }
+}
+
+@section Scripts {
+    <script>
+        // Modal açma fonksiyonu
+        function openAssignmentModal(id) {
+            const modal = new bootstrap.Modal(document.getElementById('assignmentModal'));
+            const form = document.getElementById('assignmentForm');
+
+            if (id > 0) {
+                // Düzenleme modu
+                fetch(`/Home/GetAssignment?id=${id}`)
+                    .then(response => response.json())
+                    .then(data => {
+                        document.getElementById('AssignmentId').value = data.id;
+                        document.getElementById('EmployeeId').value = data.employeeId;
+                        document.getElementById('EquipmentId').value = data.equipmentId;
+                        document.getElementById('AssignmentDate').value = new Date(data.assignmentDate).toISOString().split('T')[0];
+                        document.getElementById('HasCharger').checked = data.hasCharger;
+                        document.getElementById('HasHeadset').checked = data.hasHeadset;
+                        document.getElementById('HasDeckStation').checked = data.hasDeckStation;
+                        document.getElementById('HasWirelessHeadset').checked = data.hasWirelessHeadset;
+                        document.getElementById('HasKeyboard').checked = data.hasKeyboard;
+                        document.getElementById('HasLaptopBag').checked = data.hasLaptopBag;
+                        document.getElementById('HasMouse').checked = data.hasMouse;
+                        document.getElementById('HasJabraSpeak').checked = data.hasJabraSpeak;
+                        document.getElementById('OtherAccessories').value = data.otherAccessories || '';
+                        document.getElementById('Notes').value = data.notes || '';
+
+                        document.getElementById('modalTitle').textContent = 'Edit Assignment';
+                        modal.show();
+                    });
+            } else {
+                // Ekleme modu
+                form.reset();
+                document.getElementById('AssignmentId').value = 0;
+                document.getElementById('AssignmentDate').value = new Date().toISOString().split('T')[0];
+                document.getElementById('modalTitle').textContent = 'Add Assignment';
+                modal.show();
+            }
+        }
+
+                      // Form submit işlemi
+        document.getElementById('assignmentForm').addEventListener('submit', function(e) {
+            e.preventDefault();
+
+            const assignmentData = {
+                Id: parseInt(document.getElementById('AssignmentId').value),
+                EmployeeId: parseInt(document.getElementById('EmployeeId').value),
+                EquipmentId: parseInt(document.getElementById('EquipmentId').value),
+                AssignmentDate: document.getElementById('AssignmentDate').value,
+                HasCharger: document.getElementById('HasCharger').checked,
+                HasHeadset: document.getElementById('HasHeadset').checked,
+                HasDeckStation: document.getElementById('HasDeckStation').checked,
+                HasWirelessHeadset: document.getElementById('HasWirelessHeadset').checked,
+                HasKeyboard: document.getElementById('HasKeyboard').checked,
+                HasLaptopBag: document.getElementById('HasLaptopBag').checked,
+                HasMouse: document.getElementById('HasMouse').checked,
+                HasJabraSpeak: document.getElementById('HasJabraSpeak').checked,
+                OtherAccessories: document.getElementById('OtherAccessories').value,
+                Notes: document.getElementById('Notes').value,
+                Status: "Active"
+            };
+
+            // Validation
+            if (!assignmentData.EmployeeId || !assignmentData.EquipmentId) {
+                alert('Please select both employee and equipment');
+                return;
+            }
+
+            fetch('/Home/SaveAssignment', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json',
+                    'RequestVerificationToken': document.querySelector('input[name="__RequestVerificationToken"]').value
+                },
+                body: JSON.stringify(assignmentData)
+            }).then(response => {
+                if (response.ok) {
+                    // İşlem türüne göre URL parametresi ekleyerek sayfayı yenile
+                    const operation = assignmentData.Id > 0 ? 'edit' : 'add';
+                    window.location.href = window.location.pathname + `?operation=${operation}`;
+                } else {
+                    response.json().then(data => alert('Error: ' + (data.message || 'Failed to save assignment')));
+                }
+            }).catch(error => {
+                console.error('Error:', error);
+                alert('Error saving assignment');
+            });
+        });
+
+
+        // Silme işlemi
+               // Silme işlemi (toast mesajlı versiyon)
+              function deleteAssignment(id) {
+            if (confirm('Are you sure you want to delete this assignment?')) {
+                fetch('/Home/DeleteAssignment', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json',
+                        'RequestVerificationToken': document.querySelector('input[name="__RequestVerificationToken"]').value
+                    },
+                    body: JSON.stringify(id)
+                }).then(response => {
+                    if (response.ok) {
+                        // URL'ye delete parametresi ekleyerek sayfayı yenile
+                        window.location.href = window.location.pathname + '?operation=delete';
+                    } else {
+                        throw new Error('Network response was not ok.');
+                    }
+                }).catch(error => {
+                    console.error('Error:', error);
+                    alert('Error deleting assignment');
+                });
+            }
+        }
+
+        // Filtreleme fonksiyonları
+         document.addEventListener('DOMContentLoaded', function() {
+        const urlParams = new URLSearchParams(window.location.search);
+        const operation = urlParams.get('operation');
+
+        if (operation) {
+            let toastId;
+            switch(operation) {
+                case 'add':
+                    toastId = 'addToast';
+                    break;
+                case 'edit':
+                    toastId = 'editToast';
+                    break;
+                case 'delete':
+                    toastId = 'deleteToast';
+                    break;
+            }
+
+            if (toastId) {
+                const toast = new bootstrap.Toast(document.getElementById(toastId));
+                toast.show();
+            }
+
+            // URL'den operation parametresini temizle
+            const cleanUrl = window.location.pathname;
+            window.history.replaceState({}, document.title, cleanUrl);
+        }
+            const table = document.getElementById('assignmentTable');
+            const filterInputs = document.querySelectorAll('.filter-input, .filter-select');
+            const resetButton = document.getElementById('resetFilters');
+
+                          function filterTable() {
+            const rows = document.querySelectorAll("#assignmentTable tbody tr");
+
+            rows.forEach(row => {
+                let display = true;
+                const cells = row.querySelectorAll("td");
+
+                filterInputs.forEach(input => {
+                    const columnIndex = parseInt(input.dataset.column);
+                    const filterValue = input.value.trim();
+                    const cellValue = cells[columnIndex].textContent.trim();
+
+                    // Tarih filtresi için özel kontrol
+                    if (input.type === 'date') {
+                        if (filterValue !== '') {
+                            const filterDate = new Date(filterValue);
+                            const cellDate = new Date(cellValue);
+
+                            // Tarihlerin tam olarak aynı olup olmadığını kontrol et
+                            if (filterDate.getTime() !== cellDate.getTime()) {
+                                display = false;
+                            }
+                        }
+                    }
+                    // Combobox için özel kontrol
+                    else if (input.tagName === "SELECT") {
+                        if (filterValue !== "" && cellValue !== filterValue) {
+                            display = false;
+                        }
+                    }
+                    // Diğer sütunlar (text input)
+                    else {
+                        if (filterValue !== "" && !cellValue.toLowerCase().includes(filterValue.toLowerCase())) {
+                            display = false;
+                        }
+                    }
+                });
+
+                row.style.display = display ? "" : "none";
+            });
+        }
+
+
+            // Filtre inputlarına event listener ekleme
+            filterInputs.forEach(input => {
+                input.addEventListener('change', filterTable);
+                if (input.tagName === 'INPUT') {
+                    input.addEventListener('keyup', filterTable);
+                }
+            });
+
+            // Filtreleri sıfırlama
+            resetButton.addEventListener('click', function() {
+                filterInputs.forEach(input => {
+                    if (input.tagName === 'SELECT') {
+                        input.value = '';
+                    } else {
+                        input.value = '';
+                    }
+                });
+                filterTable();
+            });
+        });
+    </script>
+}

@@ -1,0 +1,685 @@
+C:\Users\Numan\Desktop\WebApplication4\WebApplication4\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\Numan\Desktop\WebApplication4\WebApplication4\bin\Debug\net9.0\appsettings.json
+C:\Users\Numan\Desktop\WebApplication4\WebApplication4\bin\Debug\net9.0\WebApplication4.staticwebassets.runtime.json
+C:\Users\Numan\Desktop\WebApplication4\WebApplication4\bin\Debug\net9.0\WebApplication4.staticwebassets.endpoints.json
+C:\Users\Numan\Desktop\WebApplication4\WebApplication4\bin\Debug\net9.0\WebApplication4.exe
+C:\Users\Numan\Desktop\WebApplication4\WebApplication4\bin\Debug\net9.0\WebApplication4.deps.json
+C:\Users\Numan\Desktop\WebApplication4\WebApplication4\bin\Debug\net9.0\WebApplication4.runtimeconfig.json
+C:\Users\Numan\Desktop\WebApplication4\WebApplication4\bin\Debug\net9.0\WebApplication4.dll
+C:\Users\Numan\Desktop\WebApplication4\WebApplication4\bin\Debug\net9.0\WebApplication4.pdb
+C:\Users\Numan\Desktop\WebApplication4\WebApplication4\obj\Debug\net9.0\WebApplication4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Numan\Desktop\WebApplication4\WebApplication4\obj\Debug\net9.0\WebApplication4.AssemblyInfoInputs.cache
+C:\Users\Numan\Desktop\WebApplication4\WebApplication4\obj\Debug\net9.0\WebApplication4.AssemblyInfo.cs
+C:\Users\Numan\Desktop\WebApplication4\WebApplication4\obj\Debug\net9.0\WebApplication4.csproj.CoreCompileInputs.cache
+C:\Users\Numan\Desktop\WebApplication4\WebApplication4\obj\Debug\net9.0\WebApplication4.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Numan\Desktop\WebApplication4\WebApplication4\obj\Debug\net9.0\WebApplication4.RazorAssemblyInfo.cache
+C:\Users\Numan\Desktop\WebApplication4\WebApplication4\obj\Debug\net9.0\WebApplication4.RazorAssemblyInfo.cs
+C:\Users\Numan\Desktop\WebApplication4\WebApplication4\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Numan\Desktop\WebApplication4\WebApplication4\obj\Debug\net9.0\scopedcss\bundle\WebApplication4.styles.css
+C:\Users\Numan\Desktop\WebApplication4\WebApplication4\obj\Debug\net9.0\scopedcss\projectbundle\WebApplication4.bundle.scp.css
+C:\Users\Numan\Desktop\WebApplication4\WebApplication4\obj\Debug\net9.0\compressed\r457uy3xb5-b9sayid5wm.gz
+C:\Users\Numan\Desktop\WebApplication4\WebApplication4\obj\Debug\net9.0\compressed\grq9cvkzam-61n19gt1b8.gz
+C:\Users\Numan\Desktop\WebApplication4\WebApplication4\obj\Debug\net9.0\compressed\d3tds3vylr-xtxxf3hu2r.gz
+C:\Users\Numan\Desktop\WebApplication4\WebApplication4\obj\Debug\net9.0\compressed\h3zmpu7nnw-bqjiyaj88i.gz
+C:\Users\Numan\Desktop\WebApplication4\WebApplication4\obj\Debug\net9.0\compressed\yeeqcmgqjz-c2jlpeoesf.gz
+C:\Users\Numan\Desktop\WebApplication4\WebApplication4\obj\Debug\net9.0\compressed\ishtxhpti4-erw9l3u2r3.gz
+C:\Users\Numan\Desktop\WebApplication4\WebApplication4\obj\Debug\net9.0\compressed\eovvj6l6a7-aexeepp0ev.gz
+C:\Users\Numan\Desktop\WebApplication4\WebApplication4\obj\Debug\net9.0\compressed\4pq6jlf8sg-d7shbmvgxk.gz
+C:\Users\Numan\Desktop\WebApplication4\WebApplication4\obj\Debug\net9.0\compressed\vehpiv0qht-ausgxo2sd3.gz
+C:\Users\Numan\Desktop\WebApplication4\WebApplication4\obj\Debug\net9.0\compressed\141js4frf1-k8d9w2qqmf.gz
+C:\Users\Numan\Desktop\WebApplication4\WebApplication4\obj\Debug\net9.0\compressed\kh1bakl9kx-cosvhxvwiu.gz
+C:\Users\Numan\Desktop\WebApplication4\WebApplication4\obj\Debug\net9.0\compressed\syn1tpu4eh-ub07r2b239.gz
+C:\Users\Numan\Desktop\WebApplication4\WebApplication4\obj\Debug\net9.0\compressed\5a5qhzosz2-fvhpjtyr6v.gz
+C:\Users\Numan\Desktop\WebApplication4\WebApplication4\obj\Debug\net9.0\compressed\l6oterfhnv-b7pk76d08c.gz
+C:\Users\Numan\Desktop\WebApplication4\WebApplication4\obj\Debug\net9.0\compressed\tuz4pnqgrp-fsbi9cje9m.gz
+C:\Users\Numan\Desktop\WebApplication4\WebApplication4\obj\Debug\net9.0\compressed\dfb7ficawo-rzd6atqjts.gz
+C:\Users\Numan\Desktop\WebApplication4\WebApplication4\obj\Debug\net9.0\compressed\n6kuwabiid-ee0r1s7dh0.gz
+C:\Users\Numan\Desktop\WebApplication4\WebApplication4\obj\Debug\net9.0\compressed\w532b0asmn-dxx9fxp4il.gz
+C:\Users\Numan\Desktop\WebApplication4\WebApplication4\obj\Debug\net9.0\compressed\cxl3waqou0-jd9uben2k1.gz
+C:\Users\Numan\Desktop\WebApplication4\WebApplication4\obj\Debug\net9.0\compressed\a8oun9mvoo-khv3u5hwcm.gz
+C:\Users\Numan\Desktop\WebApplication4\WebApplication4\obj\Debug\net9.0\compressed\vamkqvplvx-r4e9w2rdcm.gz
+C:\Users\Numan\Desktop\WebApplication4\WebApplication4\obj\Debug\net9.0\compressed\l7xufsrhnq-lcd1t2u6c8.gz
+C:\Users\Numan\Desktop\WebApplication4\WebApplication4\obj\Debug\net9.0\compressed\0oh0jflaz4-c2oey78nd0.gz
+C:\Users\Numan\Desktop\WebApplication4\WebApplication4\obj\Debug\net9.0\compressed\g3267y7u2b-tdbxkamptv.gz
+C:\Users\Numan\Desktop\WebApplication4\WebApplication4\obj\Debug\net9.0\compressed\dli4be20s9-j5mq2jizvt.gz
+C:\Users\Numan\Desktop\WebApplication4\WebApplication4\obj\Debug\net9.0\compressed\x93yeqoruy-06098lyss8.gz
+C:\Users\Numan\Desktop\WebApplication4\WebApplication4\obj\Debug\net9.0\compressed\k2y4rk8gvz-nvvlpmu67g.gz
+C:\Users\Numan\Desktop\WebApplication4\WebApplication4\obj\Debug\net9.0\compressed\ibc8q0uexj-s35ty4nyc5.gz
+C:\Users\Numan\Desktop\WebApplication4\WebApplication4\obj\Debug\net9.0\compressed\cmh339vfnv-pj5nd1wqec.gz
+C:\Users\Numan\Desktop\WebApplication4\WebApplication4\obj\Debug\net9.0\compressed\lw8jfr8g5z-46ein0sx1k.gz
+C:\Users\Numan\Desktop\WebApplication4\WebApplication4\obj\Debug\net9.0\compressed\cdg7fmfu3i-v0zj4ognzu.gz
+C:\Users\Numan\Desktop\WebApplication4\WebApplication4\obj\Debug\net9.0\compressed\88t0axc79u-37tfw0ft22.gz
+C:\Users\Numan\Desktop\WebApplication4\WebApplication4\obj\Debug\net9.0\compressed\27ebkzfec1-hrwsygsryq.gz
+C:\Users\Numan\Desktop\WebApplication4\WebApplication4\obj\Debug\net9.0\compressed\082x70c1jx-pk9g2wxc8p.gz
+C:\Users\Numan\Desktop\WebApplication4\WebApplication4\obj\Debug\net9.0\compressed\akhxq5roao-ft3s53vfgj.gz
+C:\Users\Numan\Desktop\WebApplication4\WebApplication4\obj\Debug\net9.0\compressed\hho2oqdc37-6cfz1n2cew.gz
+C:\Users\Numan\Desktop\WebApplication4\WebApplication4\obj\Debug\net9.0\compressed\rm0yq3k142-6pdc2jztkx.gz
+C:\Users\Numan\Desktop\WebApplication4\WebApplication4\obj\Debug\net9.0\compressed\yro0cordfx-493y06b0oq.gz
+C:\Users\Numan\Desktop\WebApplication4\WebApplication4\obj\Debug\net9.0\compressed\7ywhg6mag2-iovd86k7lj.gz
+C:\Users\Numan\Desktop\WebApplication4\WebApplication4\obj\Debug\net9.0\compressed\3jdefvtbht-vr1egmr9el.gz
+C:\Users\Numan\Desktop\WebApplication4\WebApplication4\obj\Debug\net9.0\compressed\nhciwekg68-kbrnm935zg.gz
+C:\Users\Numan\Desktop\WebApplication4\WebApplication4\obj\Debug\net9.0\compressed\8ft8u0jsd1-jj8uyg4cgr.gz
+C:\Users\Numan\Desktop\WebApplication4\WebApplication4\obj\Debug\net9.0\compressed\8krzq782ts-y7v9cxd14o.gz
+C:\Users\Numan\Desktop\WebApplication4\WebApplication4\obj\Debug\net9.0\compressed\c33o0ru5d4-notf2xhcfb.gz
+C:\Users\Numan\Desktop\WebApplication4\WebApplication4\obj\Debug\net9.0\compressed\b8h91ur0iw-h1s4sie4z3.gz
+C:\Users\Numan\Desktop\WebApplication4\WebApplication4\obj\Debug\net9.0\compressed\f98szf7vzf-63fj8s7r0e.gz
+C:\Users\Numan\Desktop\WebApplication4\WebApplication4\obj\Debug\net9.0\compressed\mhjk1uos66-0j3bgjxly4.gz
+C:\Users\Numan\Desktop\WebApplication4\WebApplication4\obj\Debug\net9.0\compressed\aebh3twi6i-47otxtyo56.gz
+C:\Users\Numan\Desktop\WebApplication4\WebApplication4\obj\Debug\net9.0\compressed\xgf226tk76-4v8eqarkd7.gz
+C:\Users\Numan\Desktop\WebApplication4\WebApplication4\obj\Debug\net9.0\compressed\uslmqyxz4n-356vix0kms.gz
+C:\Users\Numan\Desktop\WebApplication4\WebApplication4\obj\Debug\net9.0\compressed\o4magemklz-83jwlth58m.gz
+C:\Users\Numan\Desktop\WebApplication4\WebApplication4\obj\Debug\net9.0\compressed\5ngf8pcoh3-mrlpezrjn3.gz
+C:\Users\Numan\Desktop\WebApplication4\WebApplication4\obj\Debug\net9.0\compressed\0v8xrug3w9-lzl9nlhx6b.gz
+C:\Users\Numan\Desktop\WebApplication4\WebApplication4\obj\Debug\net9.0\compressed\k6a9cyq7u0-ag7o75518u.gz
+C:\Users\Numan\Desktop\WebApplication4\WebApplication4\obj\Debug\net9.0\compressed\y0wb1lzt6u-x0q3zqp4vz.gz
+C:\Users\Numan\Desktop\WebApplication4\WebApplication4\obj\Debug\net9.0\compressed\egrt2o68td-0i3buxo5is.gz
+C:\Users\Numan\Desktop\WebApplication4\WebApplication4\obj\Debug\net9.0\compressed\u6hbhyjn52-o1o13a6vjx.gz
+C:\Users\Numan\Desktop\WebApplication4\WebApplication4\obj\Debug\net9.0\compressed\ycy0zj7l2g-ttgo8qnofa.gz
+C:\Users\Numan\Desktop\WebApplication4\WebApplication4\obj\Debug\net9.0\compressed\0dqptpawv4-2z0ns9nrw6.gz
+C:\Users\Numan\Desktop\WebApplication4\WebApplication4\obj\Debug\net9.0\compressed\kw0zgxq8gi-muycvpuwrr.gz
+C:\Users\Numan\Desktop\WebApplication4\WebApplication4\obj\Debug\net9.0\compressed\5do7cb45fk-87fc7y1x7t.gz
+C:\Users\Numan\Desktop\WebApplication4\WebApplication4\obj\Debug\net9.0\compressed\ea68vhdk2x-mlv21k5csn.gz
+C:\Users\Numan\Desktop\WebApplication4\WebApplication4\obj\Debug\net9.0\compressed\t066ij8y94-v97394363p.gz
+C:\Users\Numan\Desktop\WebApplication4\WebApplication4\obj\Debug\net9.0\compressed\yijwqnxyz4-v97394363p.gz
+C:\Users\Numan\Desktop\WebApplication4\WebApplication4\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\Numan\Desktop\WebApplication4\WebApplication4\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\Numan\Desktop\WebApplication4\WebApplication4\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\Numan\Desktop\WebApplication4\WebApplication4\obj\Debug\net9.0\staticwebassets\msbuild.WebApplication4.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Numan\Desktop\WebApplication4\WebApplication4\obj\Debug\net9.0\staticwebassets\msbuild.WebApplication4.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\Numan\Desktop\WebApplication4\WebApplication4\obj\Debug\net9.0\staticwebassets\msbuild.build.WebApplication4.props
+C:\Users\Numan\Desktop\WebApplication4\WebApplication4\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.WebApplication4.props
+C:\Users\Numan\Desktop\WebApplication4\WebApplication4\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.WebApplication4.props
+C:\Users\Numan\Desktop\WebApplication4\WebApplication4\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\Numan\Desktop\WebApplication4\WebApplication4\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\Numan\Desktop\WebApplication4\WebApplication4\obj\Debug\net9.0\WebApplication4.dll
+C:\Users\Numan\Desktop\WebApplication4\WebApplication4\obj\Debug\net9.0\refint\WebApplication4.dll
+C:\Users\Numan\Desktop\WebApplication4\WebApplication4\obj\Debug\net9.0\WebApplication4.pdb
+C:\Users\Numan\Desktop\WebApplication4\WebApplication4\obj\Debug\net9.0\WebApplication4.genruntimeconfig.cache
+C:\Users\Numan\Desktop\WebApplication4\WebApplication4\obj\Debug\net9.0\ref\WebApplication4.dll
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\WebApplication4.staticwebassets.endpoints.json
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\appsettings.json
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\WebApplication4.staticwebassets.runtime.json
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\WebApplication4.exe
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\WebApplication4.deps.json
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\WebApplication4.runtimeconfig.json
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\WebApplication4.dll
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\WebApplication4.pdb
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\Azure.Core.dll
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\Azure.Identity.dll
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\Humanizer.dll
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\System.ClientModel.dll
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\System.CodeDom.dll
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\System.Drawing.Common.dll
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\System.Formats.Asn1.dll
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\System.Memory.Data.dll
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\System.Runtime.Caching.dll
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\System.Security.Permissions.dll
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\System.Text.Json.dll
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\System.Windows.Extensions.dll
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\WebApplication4.csproj.AssemblyReference.cache
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\WebApplication4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\WebApplication4.AssemblyInfoInputs.cache
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\WebApplication4.AssemblyInfo.cs
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\WebApplication4.csproj.CoreCompileInputs.cache
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\WebApplication4.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\WebApplication4.RazorAssemblyInfo.cache
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\WebApplication4.RazorAssemblyInfo.cs
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\scopedcss\bundle\WebApplication4.styles.css
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\scopedcss\projectbundle\WebApplication4.bundle.scp.css
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\compressed\r457uy3xb5-b9sayid5wm.gz
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\compressed\grq9cvkzam-61n19gt1b8.gz
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\compressed\d3tds3vylr-xtxxf3hu2r.gz
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\compressed\h3zmpu7nnw-bqjiyaj88i.gz
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\compressed\yeeqcmgqjz-c2jlpeoesf.gz
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\compressed\ishtxhpti4-erw9l3u2r3.gz
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\compressed\eovvj6l6a7-aexeepp0ev.gz
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\compressed\4pq6jlf8sg-d7shbmvgxk.gz
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\compressed\vehpiv0qht-ausgxo2sd3.gz
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\compressed\141js4frf1-k8d9w2qqmf.gz
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\compressed\kh1bakl9kx-cosvhxvwiu.gz
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\compressed\syn1tpu4eh-ub07r2b239.gz
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\compressed\5a5qhzosz2-fvhpjtyr6v.gz
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\compressed\l6oterfhnv-b7pk76d08c.gz
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\compressed\tuz4pnqgrp-fsbi9cje9m.gz
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\compressed\dfb7ficawo-rzd6atqjts.gz
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\compressed\n6kuwabiid-ee0r1s7dh0.gz
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\compressed\w532b0asmn-dxx9fxp4il.gz
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\compressed\cxl3waqou0-jd9uben2k1.gz
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\compressed\a8oun9mvoo-khv3u5hwcm.gz
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\compressed\vamkqvplvx-r4e9w2rdcm.gz
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\compressed\l7xufsrhnq-lcd1t2u6c8.gz
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\compressed\0oh0jflaz4-c2oey78nd0.gz
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\compressed\g3267y7u2b-tdbxkamptv.gz
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\compressed\dli4be20s9-j5mq2jizvt.gz
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\compressed\x93yeqoruy-06098lyss8.gz
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\compressed\k2y4rk8gvz-nvvlpmu67g.gz
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\compressed\ibc8q0uexj-s35ty4nyc5.gz
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\compressed\cmh339vfnv-pj5nd1wqec.gz
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\compressed\lw8jfr8g5z-46ein0sx1k.gz
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\compressed\cdg7fmfu3i-v0zj4ognzu.gz
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\compressed\88t0axc79u-37tfw0ft22.gz
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\compressed\27ebkzfec1-hrwsygsryq.gz
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\compressed\082x70c1jx-pk9g2wxc8p.gz
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\compressed\akhxq5roao-ft3s53vfgj.gz
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\compressed\hho2oqdc37-6cfz1n2cew.gz
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\compressed\rm0yq3k142-6pdc2jztkx.gz
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\compressed\yro0cordfx-493y06b0oq.gz
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\compressed\7ywhg6mag2-iovd86k7lj.gz
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\compressed\3jdefvtbht-vr1egmr9el.gz
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\compressed\nhciwekg68-kbrnm935zg.gz
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\compressed\8ft8u0jsd1-jj8uyg4cgr.gz
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\compressed\8krzq782ts-y7v9cxd14o.gz
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\compressed\c33o0ru5d4-notf2xhcfb.gz
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\compressed\b8h91ur0iw-h1s4sie4z3.gz
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\compressed\f98szf7vzf-63fj8s7r0e.gz
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\compressed\mhjk1uos66-0j3bgjxly4.gz
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\compressed\aebh3twi6i-47otxtyo56.gz
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\compressed\xgf226tk76-4v8eqarkd7.gz
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\compressed\uslmqyxz4n-356vix0kms.gz
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\compressed\o4magemklz-83jwlth58m.gz
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\compressed\5ngf8pcoh3-mrlpezrjn3.gz
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\compressed\0v8xrug3w9-lzl9nlhx6b.gz
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\compressed\k6a9cyq7u0-ag7o75518u.gz
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\compressed\y0wb1lzt6u-x0q3zqp4vz.gz
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\compressed\egrt2o68td-0i3buxo5is.gz
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\compressed\u6hbhyjn52-o1o13a6vjx.gz
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\compressed\ycy0zj7l2g-ttgo8qnofa.gz
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\compressed\0dqptpawv4-2z0ns9nrw6.gz
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\compressed\kw0zgxq8gi-muycvpuwrr.gz
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\compressed\5do7cb45fk-87fc7y1x7t.gz
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\compressed\ea68vhdk2x-mlv21k5csn.gz
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\compressed\t066ij8y94-v97394363p.gz
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\compressed\yijwqnxyz4-v97394363p.gz
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\staticwebassets\msbuild.WebApplication4.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\staticwebassets\msbuild.WebApplication4.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\staticwebassets\msbuild.build.WebApplication4.props
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.WebApplication4.props
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.WebApplication4.props
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\WebAppli.EC757EB8.Up2Date
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\WebApplication4.dll
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\refint\WebApplication4.dll
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\WebApplication4.pdb
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\WebApplication4.genruntimeconfig.cache
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\ref\WebApplication4.dll
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\compressed\s9zk0b03xc-nclwyi8366.gz
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\compressed\vquff31nrp-4weum1d8i3.gz
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\compressed\xfnf165uzt-a6wz4zl1d0.gz
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\compressed\nfdjxugqvs-dojtn27aph.gz
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\compressed\obbvbk2j1o-zpf6r7iu2p.gz
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\compressed\8pwkp8q90n-q1l85krjoz.gz
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\compressed\5wiew402k9-ds340y6aci.gz
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\compressed\rbvbv88xw3-xofyfpxpoh.gz
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\compressed\ug1b6verzf-m4zwc30cs6.gz
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\compressed\9spxw0nwrr-l2uydcq7in.gz
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\compressed\itytqqcp7f-z4ulzpprs1.gz
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\compressed\nm99hgc5n1-vn0zb8aorj.gz
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\compressed\ed2zho0dh9-55zgwnarf3.gz
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\compressed\frzguxq04y-wexc4ua4wj.gz
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\compressed\p653t5sa2r-9j04k7ff8o.gz
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\compressed\i6vsvhh119-caz9dtw6qw.gz
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\compressed\b257dypmg8-r71srw9373.gz
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\compressed\737i87ltef-kpys072oee.gz
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\compressed\vnl3yp5b67-sumeqeat2b.gz
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\compressed\gggry27e9j-8b3e4oeqwp.gz
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\compressed\0v2p07eyzi-jwbupvf1cn.gz
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\compressed\gbytawzrr5-lp6b53yply.gz
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\compressed\v5017g5wom-gyzl34zark.gz
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\compressed\musa7zrkrj-1vu6lxsd9m.gz
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\compressed\9ejsuzmqkt-t01kyuglfx.gz
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\compressed\752j672e71-j1m9o9pn5t.gz
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\compressed\6mkz06qkc8-7z09619q9j.gz
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\compressed\uytv8wsxm3-jpw2fk0kvm.gz
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\compressed\t73hspiw2t-ajzo1u5v8g.gz
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\compressed\a1k2a4ngj9-dwnyfrorjx.gz
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\compressed\9s5zr6ukru-sdlhrk323x.gz
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\compressed\rq9uqsxzbz-h0ed2e8v31.gz
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\compressed\kkn2vj9dho-3631qojtq1.gz
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\compressed\dzr9wz5hoy-yhs0gtq433.gz
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\compressed\8uc2cbe8fk-zyma9w1t4a.gz
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\compressed\q0sutvlnnc-0ia45k0zg6.gz
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\compressed\qoeeupqp1s-9nx659ylgg.gz
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\compressed\9vbsyo91sy-2aps6mjopp.gz
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\compressed\5yugamzt3w-7ifmqzf51n.gz
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\compressed\v7z5y060j3-586x66nycw.gz
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\compressed\krw5jn5qch-mykkvd2hkm.gz
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\compressed\c1nyzk9lyt-4fapcppmxt.gz
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\compressed\tp6rrtd0fo-7183nd47gn.gz
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\compressed\a2snv0poja-fv6m00jlsj.gz
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\itext.barcodes.dll
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\itext.bouncy-castle-connector.dll
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\itext.forms.dll
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\itext.io.dll
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\itext.kernel.dll
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\itext.layout.dll
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\itext.pdfa.dll
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\itext.pdfua.dll
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\itext.sign.dll
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\itext.styledxmlparser.dll
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\itext.svg.dll
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\itext.commons.dll
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\BouncyCastle.Cryptography.dll
+C:\Users\Numan\Desktop\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\itext.bouncy-castle-adapter.dll
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\appsettings.json
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\WebApplication4.staticwebassets.endpoints.json
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\WebApplication4.staticwebassets.runtime.json
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\WebApplication4.exe
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\WebApplication4.deps.json
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\WebApplication4.runtimeconfig.json
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\WebApplication4.dll
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\WebApplication4.pdb
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\Azure.Core.dll
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\Azure.Identity.dll
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\BouncyCastle.Cryptography.dll
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\Humanizer.dll
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\itext.barcodes.dll
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\itext.bouncy-castle-connector.dll
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\itext.forms.dll
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\itext.io.dll
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\itext.kernel.dll
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\itext.layout.dll
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\itext.pdfa.dll
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\itext.pdfua.dll
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\itext.sign.dll
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\itext.styledxmlparser.dll
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\itext.svg.dll
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\itext.bouncy-castle-adapter.dll
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\itext.commons.dll
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\System.ClientModel.dll
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\System.CodeDom.dll
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\System.Drawing.Common.dll
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\System.Formats.Asn1.dll
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\System.Memory.Data.dll
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\System.Runtime.Caching.dll
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\System.Security.Permissions.dll
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\System.Text.Json.dll
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\System.Windows.Extensions.dll
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\WebApplication4.csproj.AssemblyReference.cache
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\WebApplication4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\WebApplication4.AssemblyInfoInputs.cache
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\WebApplication4.AssemblyInfo.cs
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\WebApplication4.csproj.CoreCompileInputs.cache
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\WebApplication4.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\WebApplication4.RazorAssemblyInfo.cache
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\WebApplication4.RazorAssemblyInfo.cs
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\scopedcss\bundle\WebApplication4.styles.css
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\scopedcss\projectbundle\WebApplication4.bundle.scp.css
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\compressed\s9zk0b03xc-nclwyi8366.gz
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\compressed\vquff31nrp-4weum1d8i3.gz
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\compressed\xfnf165uzt-a6wz4zl1d0.gz
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\compressed\nfdjxugqvs-dojtn27aph.gz
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\compressed\obbvbk2j1o-zpf6r7iu2p.gz
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\compressed\8pwkp8q90n-q1l85krjoz.gz
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\compressed\5wiew402k9-ds340y6aci.gz
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\compressed\rbvbv88xw3-xofyfpxpoh.gz
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\compressed\ug1b6verzf-m4zwc30cs6.gz
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\compressed\9spxw0nwrr-l2uydcq7in.gz
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\compressed\itytqqcp7f-z4ulzpprs1.gz
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\compressed\nm99hgc5n1-vn0zb8aorj.gz
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\compressed\ed2zho0dh9-55zgwnarf3.gz
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\compressed\frzguxq04y-wexc4ua4wj.gz
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\compressed\p653t5sa2r-9j04k7ff8o.gz
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\compressed\i6vsvhh119-caz9dtw6qw.gz
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\compressed\b257dypmg8-r71srw9373.gz
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\compressed\737i87ltef-kpys072oee.gz
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\compressed\vnl3yp5b67-sumeqeat2b.gz
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\compressed\gggry27e9j-8b3e4oeqwp.gz
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\compressed\0v2p07eyzi-jwbupvf1cn.gz
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\compressed\gbytawzrr5-lp6b53yply.gz
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\compressed\v5017g5wom-gyzl34zark.gz
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\compressed\musa7zrkrj-1vu6lxsd9m.gz
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\compressed\9ejsuzmqkt-t01kyuglfx.gz
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\compressed\752j672e71-j1m9o9pn5t.gz
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\compressed\6mkz06qkc8-7z09619q9j.gz
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\compressed\uytv8wsxm3-jpw2fk0kvm.gz
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\compressed\t73hspiw2t-ajzo1u5v8g.gz
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\compressed\a1k2a4ngj9-dwnyfrorjx.gz
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\compressed\9s5zr6ukru-sdlhrk323x.gz
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\compressed\rq9uqsxzbz-h0ed2e8v31.gz
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\compressed\kkn2vj9dho-3631qojtq1.gz
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\compressed\dzr9wz5hoy-yhs0gtq433.gz
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\compressed\8uc2cbe8fk-zyma9w1t4a.gz
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\compressed\q0sutvlnnc-0ia45k0zg6.gz
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\compressed\qoeeupqp1s-9nx659ylgg.gz
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\compressed\9vbsyo91sy-2aps6mjopp.gz
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\compressed\5yugamzt3w-7ifmqzf51n.gz
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\compressed\v7z5y060j3-586x66nycw.gz
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\compressed\krw5jn5qch-mykkvd2hkm.gz
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\compressed\c1nyzk9lyt-4fapcppmxt.gz
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\compressed\tp6rrtd0fo-7183nd47gn.gz
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\compressed\a2snv0poja-fv6m00jlsj.gz
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\compressed\r457uy3xb5-b9sayid5wm.gz
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\compressed\grq9cvkzam-61n19gt1b8.gz
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\compressed\d3tds3vylr-xtxxf3hu2r.gz
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\compressed\h3zmpu7nnw-bqjiyaj88i.gz
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\compressed\yeeqcmgqjz-c2jlpeoesf.gz
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\compressed\ishtxhpti4-erw9l3u2r3.gz
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\compressed\eovvj6l6a7-aexeepp0ev.gz
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\compressed\4pq6jlf8sg-d7shbmvgxk.gz
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\compressed\vehpiv0qht-ausgxo2sd3.gz
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\compressed\141js4frf1-k8d9w2qqmf.gz
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\compressed\kh1bakl9kx-cosvhxvwiu.gz
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\compressed\syn1tpu4eh-ub07r2b239.gz
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\compressed\5a5qhzosz2-fvhpjtyr6v.gz
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\compressed\l6oterfhnv-b7pk76d08c.gz
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\compressed\tuz4pnqgrp-fsbi9cje9m.gz
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\compressed\dfb7ficawo-rzd6atqjts.gz
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\compressed\n6kuwabiid-ee0r1s7dh0.gz
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\compressed\w532b0asmn-dxx9fxp4il.gz
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\compressed\cxl3waqou0-jd9uben2k1.gz
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\compressed\a8oun9mvoo-khv3u5hwcm.gz
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\compressed\vamkqvplvx-r4e9w2rdcm.gz
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\compressed\l7xufsrhnq-lcd1t2u6c8.gz
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\compressed\0oh0jflaz4-c2oey78nd0.gz
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\compressed\g3267y7u2b-tdbxkamptv.gz
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\compressed\dli4be20s9-j5mq2jizvt.gz
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\compressed\x93yeqoruy-06098lyss8.gz
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\compressed\k2y4rk8gvz-nvvlpmu67g.gz
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\compressed\ibc8q0uexj-s35ty4nyc5.gz
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\compressed\cmh339vfnv-pj5nd1wqec.gz
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\compressed\lw8jfr8g5z-46ein0sx1k.gz
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\compressed\cdg7fmfu3i-v0zj4ognzu.gz
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\compressed\88t0axc79u-37tfw0ft22.gz
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\compressed\27ebkzfec1-hrwsygsryq.gz
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\compressed\082x70c1jx-pk9g2wxc8p.gz
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\compressed\akhxq5roao-ft3s53vfgj.gz
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\compressed\hho2oqdc37-6cfz1n2cew.gz
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\compressed\rm0yq3k142-6pdc2jztkx.gz
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\compressed\yro0cordfx-493y06b0oq.gz
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\compressed\7ywhg6mag2-iovd86k7lj.gz
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\compressed\3jdefvtbht-vr1egmr9el.gz
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\compressed\nhciwekg68-kbrnm935zg.gz
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\compressed\8ft8u0jsd1-jj8uyg4cgr.gz
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\compressed\8krzq782ts-y7v9cxd14o.gz
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\compressed\c33o0ru5d4-notf2xhcfb.gz
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\compressed\b8h91ur0iw-h1s4sie4z3.gz
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\compressed\f98szf7vzf-63fj8s7r0e.gz
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\compressed\mhjk1uos66-0j3bgjxly4.gz
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\compressed\aebh3twi6i-47otxtyo56.gz
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\compressed\xgf226tk76-4v8eqarkd7.gz
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\compressed\uslmqyxz4n-356vix0kms.gz
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\compressed\o4magemklz-83jwlth58m.gz
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\compressed\5ngf8pcoh3-mrlpezrjn3.gz
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\compressed\0v8xrug3w9-lzl9nlhx6b.gz
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\compressed\k6a9cyq7u0-ag7o75518u.gz
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\compressed\y0wb1lzt6u-x0q3zqp4vz.gz
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\compressed\egrt2o68td-0i3buxo5is.gz
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\compressed\u6hbhyjn52-o1o13a6vjx.gz
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\compressed\ycy0zj7l2g-ttgo8qnofa.gz
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\compressed\0dqptpawv4-2z0ns9nrw6.gz
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\compressed\kw0zgxq8gi-muycvpuwrr.gz
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\compressed\5do7cb45fk-87fc7y1x7t.gz
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\compressed\ea68vhdk2x-mlv21k5csn.gz
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\compressed\t066ij8y94-v97394363p.gz
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\compressed\yijwqnxyz4-v97394363p.gz
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\staticwebassets\msbuild.WebApplication4.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\staticwebassets\msbuild.WebApplication4.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\staticwebassets\msbuild.build.WebApplication4.props
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.WebApplication4.props
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.WebApplication4.props
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\WebAppli.EC757EB8.Up2Date
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\WebApplication4.dll
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\refint\WebApplication4.dll
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\WebApplication4.pdb
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\WebApplication4.genruntimeconfig.cache
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\ref\WebApplication4.dll
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\wwwroot\Tasarim\images.jpeg
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\wwwroot\Tasarim\images1.png
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\wwwroot\Tasarim\images2.png
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\bin\Debug\net9.0\wwwroot\Tasarim\printer.jpg
+C:\Users\Numan\OneDrive\Masaüstü\WebApplication4 - Kopya\WebApplication4\obj\Debug\net9.0\compressed\jebjkofa2u-txqibbkigz.gz
